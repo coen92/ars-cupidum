@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: # enter specified for postgresql setup path for database
+    driver-class-name: org.postgresql.Driver
+    username: # enter role with database access
+    password: # enter password for the role above
